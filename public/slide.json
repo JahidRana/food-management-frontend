@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "title": "Vegetables",
+    "description": "Fresh and nutritious vegetables for your healthy diet.",
+    "image": "https://i.ibb.co/Yd92P2t/image-14-2.png"
+  },
+  {
+    "id": 1,
+    "title": "Fruits",
+    "description": "Delicious and juicy fruits to satisfy your sweet cravings.",
+    "image": "https://i.ibb.co/BzB7p3v/image-15-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Dairy Product",
+    "description": "Creamy and dairy goodness to enhance your meals.",
+    "image": "https://i.ibb.co/FB8xb9D/image-16-1.png"
+  },
+  {
+    "id": 3,
+    "title": "Fish, Meat, and Chicken",
+    "description": "High-quality proteins for a hearty and savory feast.",
+    "image": "https://i.ibb.co/d71YTSY/image-17-1.png"
+  }
+]
